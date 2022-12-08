@@ -1,0 +1,22 @@
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\bin\Debug\Digital Image Processor.exe.config
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\bin\Debug\Digital Image Processor.exe
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\bin\Debug\Digital Image Processor.pdb
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.AssemblyReference.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.SuggestedBindingRedirects.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital_Image_Processor.Form1.resources
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital_Image_Processor.Properties.Resources.resources
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.GenerateResource.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.CoreCompileInputs.cache
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital Image Processor.exe
+C:\Users\raul jay\Desktop\BSCS\3rd\1st-Sem\C2\Intelligent System 1\Assignment\Part 1\Digital Image Processor\Digital Image Processor\obj\Debug\Digital Image Processor.pdb
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\bin\Debug\Digital Image Processor.exe.config
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\bin\Debug\Digital Image Processor.exe
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\bin\Debug\Digital Image Processor.pdb
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.AssemblyReference.cache
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.SuggestedBindingRedirects.cache
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital_Image_Processor.Form1.resources
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital_Image_Processor.Properties.Resources.resources
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.GenerateResource.cache
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital Image Processor.csproj.CoreCompileInputs.cache
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital Image Processor.exe
+C:\Users\raul jay\Desktop\Digital-Image-Processing\Digital Image Processor\obj\Debug\Digital Image Processor.pdb
